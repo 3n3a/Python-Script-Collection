@@ -1,2 +1,2 @@
-# Python-Script-Collection
-A collection of python scriots
+# PyScripts Collection
+A collection of python scripts
